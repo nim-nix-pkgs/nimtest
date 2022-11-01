@@ -39,10 +39,10 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs",
-        "src-nimtest-master": "src-nimtest-master"
+        "src-nimtest-v0_1_2": "src-nimtest-v0_1_2"
       }
     },
-    "src-nimtest-master": {
+    "src-nimtest-v0_1_2": {
       "flake": false,
       "locked": {
         "lastModified": 1662912181,
@@ -54,7 +54,7 @@
       },
       "original": {
         "owner": "avahe-kellenberger",
-        "ref": "refs/heads/master",
+        "ref": "refs/tags/v0.1.2",
         "repo": "nimtest",
         "type": "github"
       }
